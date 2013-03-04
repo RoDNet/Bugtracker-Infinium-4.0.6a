@@ -2,7 +2,7 @@ Bugtracker temporal de Reign of Darkness Network WoW
 ====================================================
 Copyright (C) 2012 Reign of Darkness Network <http://www.reignofdarkness.net/>
 
-Este es el bugtracker temporal de Reign of Darkness WoW para el reino Infinium (Versión 4.0.6a) y actualmente en la version RoDEmu-WoW 0.5, por favor, comprueba bien si en realidad se trata de un error y se específico en tus reportes adjuntando la mayor información posible proporcionando enlaces a <http://es.wowhead.com/> o bien ayudándo a tu reporte mediante videos de <http://www.youtube.com/> o tomando algún screenshot.
+Este es el bugtracker temporal de Reign of Darkness WoW para el reino Infinium (Versión 4.0.6a) y actualmente en la version RoDEmu-WoW 0.6, por favor, comprueba bien si en realidad se trata de un error y se específico en tus reportes adjuntando la mayor información posible proporcionando enlaces a <http://es.wowhead.com/> o bien ayudándo a tu reporte mediante videos de <http://www.youtube.com/> o tomando algún screenshot.
 
 Se específico y mantén buena ortografía para que podamos entender tu reporte y no olvides clasificarlo en la categoría correcta, por favor, pon cada error en un ticket diferente, de esta manera podremos organizarnos y a la vez, hacer que vosotros podaís ver facilmente que es lo que ya se ha corregido.
 
